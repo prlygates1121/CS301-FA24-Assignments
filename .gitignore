@@ -1,0 +1,44 @@
+# STM32CubeIDE / Eclipse workspace & IDE files
+/.metadata/
+*.launch
+**/.settings/language.settings.xml
+**/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs
+
+# Build outputs
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.list
+*.map
+*.srec
+
+# JetBrains / VS Code / Editors
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Archives & temp files
+*.zip
+*.7z
+*.rar
+*.log
+*.tmp
+*.bak
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
